@@ -3,3 +3,4 @@ hello universe
 third line
 fifth line
 learning to rebase
+sixth line
