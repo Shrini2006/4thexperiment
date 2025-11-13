@@ -1,6 +1,11 @@
 hello world
 hello universe
+<<<<<<< HEAD
 third line
 fifth line
 learning to rebase
 sixth line
+=======
+hello rakshita
+
+>>>>>>> feature-branch

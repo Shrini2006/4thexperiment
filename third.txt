@@ -1,6 +1,17 @@
 experiment 2
+<<<<<<< HEAD
 first line
 second line
 third line
 1st experiment
+=======
+<<<<<<< Updated upstream
+=======
+first line
+second line
+third line
+
+>>>>>>> Stashed changes
+experiment 3
+>>>>>>> feature-branch
 
