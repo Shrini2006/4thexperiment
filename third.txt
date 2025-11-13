@@ -8,3 +8,4 @@ third line
 >>>>>>> Stashed changes
 experiment 3
 hi
+hello
