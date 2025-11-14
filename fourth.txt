@@ -3,6 +3,7 @@ hi!
 memory
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hurts
 monkey
 =======
@@ -16,4 +17,9 @@ hurts monkey
 hurts
 monkey
 
+>>>>>>> Stashed changes
+=======
+hurts monkey
+hurts
+monkey
 >>>>>>> Stashed changes
