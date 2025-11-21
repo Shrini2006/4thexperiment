@@ -7,7 +7,5 @@ first line
 second line
 third line
 experiment 3
-hi
-hello!
 learning rebase
 rebase wihtout push
