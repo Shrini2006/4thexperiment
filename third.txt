@@ -1,10 +1,1 @@
 experiment 2
-first line
-second line
-third line
-1st experiment
-experiment 3
-learning rebase
-rebase wihtout push
-bye!!
-hello!!
