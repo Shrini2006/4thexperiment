@@ -1,9 +1,4 @@
 hello!
 hi!
 memory
-<<<<<<< HEAD
 hurts monkey
-=======
-hurts
-monkey
->>>>>>> 7d3b032 (new commit)
