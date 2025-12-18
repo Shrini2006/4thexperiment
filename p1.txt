@@ -1,7 +1,2 @@
 1st experiment
-<<<<<<< HEAD
-new commit in remoteee
-hello
-=======
 learning the rebase
->>>>>>> 33d990c (new commit)
