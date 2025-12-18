@@ -1,10 +1,2 @@
 hello world
 hello universe
-third line
-fifth line
-learning to rebase
-sixth line
-hello rakshita
-bye!!
-seventh line
-vinnu kiki
