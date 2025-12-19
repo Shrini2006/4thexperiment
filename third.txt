@@ -1,11 +1,6 @@
-experiment 2
-<<<<<<< Updated upstream
-=======
+experiment 3
 first line
 second line
 third line
-
->>>>>>> Stashed changes
-experiment 3
 hi
 hello
