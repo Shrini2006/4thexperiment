@@ -1,12 +1,7 @@
-experiment 2
-resloving the conflicts
+
 first line
 second line
 third line
 1st experiment
 first line
-second line
-third line
-experiment 3
-learning rebase
 
