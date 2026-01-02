@@ -1,46 +1,5 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-hello0
-=======
+
+hello
 3rd experiment
 1st lab IA
->>>>>>> Stashed changes
-=======
-3rd experiment
-1st lab IA
->>>>>>> Stashed changes
-=======
-3rd experiment
-1st lab IA
->>>>>>> Stashed changes
-=======
-3rd experiment
-git lab IA 1......
->>>>>>> Stashed changes
-=======
-3rd experiment
-git lab IA 1......
->>>>>>> Stashed changes
-=======
-3rd experiment
-git lab IA 1......
->>>>>>> Stashed changes
-=======
-3rd experiment
-git lab IA 1......
->>>>>>> Stashed changes
-=======
-3rd experiment
-git lab IA 1
->>>>>>> Stashed changes
-=======
-3rd experiment
-git lab IA 1
->>>>>>> Stashed changes
+
